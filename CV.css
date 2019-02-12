@@ -1,0 +1,25 @@
+body {
+ background-color: white;
+}
+
+h1 {
+ color: blue;
+ text-align: center;
+}
+
+p {
+ text-align: right;
+}
+
+img {
+  float: left;
+}
+
+#div1 {
+
+    height: 200px;
+    width: auto;
+    background-color: DarkCyan;
+    color: white;
+    font-style: oblique;
+}
