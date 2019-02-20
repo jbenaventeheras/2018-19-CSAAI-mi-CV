@@ -1,14 +1,47 @@
 body {
- background-color: white;
+ background-color: grey
+ font-family: monospace;
+ ;
+}
+h2 {
+ color: black;
+ text-align: left;
+ background-color: lightblue;
+}
+h3 {
+ color: black;
+ text-align: left;
+ background-color: lightblue;
 }
 
+div.header {
+  background-color: lightgrey;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  height: 0%;
+}
+
+
 h1 {
- color: blue;
+ color: black;
  text-align: center;
+ background-color: lightblue;
+}
+.styleone{
+  height: 20px;
+  margin-left: 5%;
+  margin-right: 30%;
+  background-color: blueviolet;
+  border-radius: 10px;
+  text-align: center;
 }
 
 p {
- text-align: right;
+ color: black;
+ text-align: center;
+ background-color: lightblue;
 }
 
 img {
